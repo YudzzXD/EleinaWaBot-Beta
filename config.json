@@ -1,0 +1,14 @@
+{ 
+  "botName": "WhatsApp Bot",
+  "ownerName": "WhatsApp LLC",
+  "sessionName": "session",
+  "footer": "© WhatsApp LLC",
+  "api_lolkey": "SadTeams",
+  "keyopenai": "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",
+  "ChatOwner": "6285840104297@s.whatsapp.net",
+  "ownerNumber": "6285840104297@s.whatsapp.net",
+  "group":{
+  "judul": "Grup WhatsApp Bot",
+  "link": "https://wahyudiid.w3spaces.com"
+  }
+}
